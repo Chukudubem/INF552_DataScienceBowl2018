@@ -1,0 +1,5 @@
+*.h5
+*.hdf5
+unet_repo/models/weights_folder/unet/best_weights.hdf5
+unet_repo/models/weights_folder/unet/*.hdf5
+code_mask_rcnn/Mask_RCNN-master/mask_rcnn_coco.h5
